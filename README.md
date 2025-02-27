@@ -1,4 +1,4 @@
-# Guide to test Apache kafka in local + Using NodeJs
+# Guide to test Apache kafka in local
 
 ## Kafka Introduction
 
